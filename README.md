@@ -41,4 +41,3 @@ $ node index.js
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
 
 Feito com ❤️ por Maylla Rabay 👋 [Entre em contato!](https://www.linkedin.com/in/mayllarabay/)
-
